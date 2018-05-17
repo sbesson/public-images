@@ -1,2 +1,3 @@
-2016-06-BBBC	/uod/idr/repos/curated/ome-tiff/ome-schemas/2016-06/BBBC
-2016-06-MitoCheck	/uod/idr/repos/curated/ome-tiff/ome-schemas/2016-06/MitoCheck
+regex:+name:^.*public/(?<Container1>[^/]*).*	/uod/idr/repos/curated/perkinelmer-operetta/public
+regex:+name:^.*public/(?<Container1>[^/]*).*	/uod/idr/repos/curated/incell3000/public
+regex:+name:^.*public/(?<Container1>[^/]*).*	/uod/idr/repos/curated/incell/public
