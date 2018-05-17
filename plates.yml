@@ -1,7 +1,6 @@
 ---
 include: "bulk.yml"
-target: "Screen:name:OME-TIFF"
-path: "ome-tiff-plates.tsv"
+path: "plates.tsv"
 columns:
-    - name
+    - target
     - path
