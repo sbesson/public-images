@@ -1,5 +1,5 @@
-regex:%name:^.*/public/(?<Container1>[^/]*)/.*	/ome/data_repo/curated/nd2/public/
-regex:%name:^.*/public/(?<Container1>[^/]*)/.*	/ome/data_repo/curated/tiff/public/
-regex:%name:^.*/public/(?<Container1>[^/]*)/.*	/ome/data_repo/curated/deltavision/public/
-regex:%name:^.*/public/(?<Container1>[^/]*)/.*	/ome/data_repo/curated/dicom/public/
-regex:%name:^.*/public/(?<Container1>[^/]*)/.*	/ome/data_repo/curated/vectra-qptiff/public/
+regex:+name:^.*public/(?<Container1>[^/]*).*	/ome/data_repo/curated/nd2/public/
+regex:+name:^.*public/(?<Container1>[^/]*).*	/ome/data_repo/curated/tiff/public/
+regex:+name:^.*public/(?<Container1>[^/]*).*	/ome/data_repo/curated/deltavision/public/
+regex:+name:^.*public/(?<Container1>[^/]*).*	/ome/data_repo/curated/dicom/public/
+regex:+name:^.*public/(?<Container1>[^/]*).*	/ome/data_repo/curated/vectra-qptiff/public/
