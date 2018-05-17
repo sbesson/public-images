@@ -3,3 +3,9 @@ regex:+name:^.*public/(?<Container1>[^/]*).*	/ome/data_repo/curated/tiff/public/
 regex:+name:^.*public/(?<Container1>[^/]*).*	/ome/data_repo/curated/deltavision/public/
 regex:+name:^.*public/(?<Container1>[^/]*).*	/ome/data_repo/curated/dicom/public/
 regex:+name:^.*public/(?<Container1>[^/]*).*	/ome/data_repo/curated/vectra-qptiff/public/
+regex:+name:^.*public/(?<Container1>[^/]*).*	/ome/data_repo/curated/leica-lif/public/
+regex:+name:^.*public/(?<Container1>[^/]*).*	/ome/data_repo/curated/becker-hickl-spc/public/
+regex:+name:^.*public/(?<Container1>[^/]*).*	/ome/data_repo/curated/nifti/public/
+regex:+name:^.*public/(?<Container1>[^/]*).*	/ome/data_repo/curated/leica-scn/public/
+regex:+name:^.*public/(?<Container1>[^/]*).*	/ome/data_repo/curated/imaris/public/
+regex:+name:^.*public/(?<Container1>[^/]*).*	/ome/data_repo/curated/nrrd/public/
