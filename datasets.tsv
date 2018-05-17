@@ -1,17 +1,6 @@
-Dataset:name:%2016-06	/uod/idr/repos/curated/ome-tiff/ome-schemas/2016-06/bioformats-artificial
-Dataset:name:%2016-06	/uod/idr/repos/curated/ome-tiff/ome-schemas/2016-06/binaryonly
-Dataset:name:%2016-06	/uod/idr/repos/curated/ome-tiff/ome-schemas/2016-06/companion
-Dataset:name:%2016-06	/uod/idr/repos/curated/ome-tiff/ome-schemas/2016-06/modulo
-Dataset:name:%2016-06	/uod/idr/repos/curated/ome-tiff/ome-schemas/2016-06/tubhiswt-2D
-Dataset:name:%2016-06	/uod/idr/repos/curated/ome-tiff/ome-schemas/2016-06/tubhiswt-3D
-Dataset:name:%2016-06	/uod/idr/repos/curated/ome-tiff/ome-schemas/2016-06/tubhiswt-4D
-Dataset:name:%aryeh	/uod/idr/repos/curated/nd2/public/aryeh
-Dataset:name:%jonas	/uod/idr/repos/curated/nd2/public/jonas
-Dataset:name:%karl	/uod/idr/repos/curated/nd2/public/karl
-Dataset:name:%maxime	/uod/idr/repos/curated/nd2/public/maxime
-Dataset:name:%aryeh	/uod/idr/repos/curated/nd2/public/aryeh
-Dataset:name:%jonas	/uod/idr/repos/curated/nd2/public/jonas
-Dataset:name:%karl	/uod/idr/repos/curated/nd2/public/karl
-Dataset:name:%maxime	/uod/idr/repos/curated/nd2/public/maxime
-Dataset:name:%perkinelmer	/uod/idr/repos/curated/vectra-qptiff/public/perkinelmer/
-Dataset:name:%perkinelmer	/uod/idr/repos/curated/vectra-qptiff/public/perkinelmer/
+regex:%name:^.*/public/(?<Container1>[^/]*)/.*	/ome/data_repo/curated/nd2/publ
+ic/
+regex:%name:^.*/public/(?<Container1>[^/]*)/.*	/ome/data_repo/curated/tiff/public/
+regex:%name:^.*/public/(?<Container1>[^/]*)/.*	/ome/data_repo/curated/deltavision/public/
+regex:%name:^.*/public/(?<Container1>[^/]*)/.*	/ome/data_repo/curated/dicom/public/
+regex:%name:^.*/public/(?<Container1>[^/]*)/.*	/ome/data_repo/curated/vectra-qptiff/public/

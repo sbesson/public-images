@@ -1,6 +1,6 @@
 ---
 continue: "true"
-# transfer: "ln_s"
+transfer: "ln_s"
 exclude: "clientpath"
 checksum_algorithm: "File-Size-64"
 logprefix: "logs/"
