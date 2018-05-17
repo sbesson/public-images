@@ -1,6 +1,6 @@
 ---
 include: "bulk.yml"
-path: "ome-tiff-datasets.tsv"
+path: "datasets.tsv"
 columns:
     - target
     - path
